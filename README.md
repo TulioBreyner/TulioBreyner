@@ -1,13 +1,15 @@
 ```zig
 class Person:
-    def __init__(self, name, profession, hobbies):
-        self.nome = name
-        self.profissao = profession
+    def __init__(self, name, age, profession, hobbies):
+        self.name = name
+        self.age = age
+        self.profession = profession
         self.hobbies = hobbies
 
 me = Person(
-    name="Túlio",
-    profession="Dev",
+    name = "Túlio",
+    age = 20,
+    profession = "Dev",
     hobbies = ["Coding", "Studying", "Gaming", "Weight training"]
 )
 ```
