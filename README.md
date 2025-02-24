@@ -1,16 +1,12 @@
 ```zig
 class Person:
-    def __init__(self, name, age, profession, hobbies):
+    def __init__(self, name, age):
         self.name = name
         self.age = age
-        self.profession = profession
-        self.hobbies = hobbies
 
 me = Person(
     name = "Túlio",
-    age = 20,
-    profession = "Dev",
-    hobbies = ["Coding", "Studying", "Gaming", "Weight training"]
+    age = 20
 )
 ```
 
@@ -26,8 +22,9 @@ me = Person(
     />
 </p>
 
-### 🚀 Technologies I Use 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+### 🚀 Technologies
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ### 📚 Learning
 ![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-FF6F61?style=for-the-badge&logo=ai&logoColor=white) ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
