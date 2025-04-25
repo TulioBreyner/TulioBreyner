@@ -27,7 +27,7 @@ me = Person(
 
 
 ### 📚 Learning
-![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-FF6F61?style=for-the-badge&logo=ai&logoColor=white) ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![AWS Cloud](https://img.shields.io/badge/-AWS_Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### 🌍 Find Me Here
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-tulio-palhares-breyner/) [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/416377730192637952)
