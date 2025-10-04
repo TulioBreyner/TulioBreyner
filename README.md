@@ -1,21 +1,6 @@
-```zig
-class Person:
-    def __init__(self, name, age):
-        self.name = name
-        self.age = age
-
-me = Person(
-    name = "Túlio",
-    age = 20
-)
-```
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=006000&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!+🖐;I'm+a+software+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://github.com/TulioBreyner">
-    <img align="center"
-         src="https://github-readme-stats.vercel.app/api?username=TulioBreyner&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117" />
-  </a>
-    
   <a href="https://github.com/TulioBreyner">
     <img align="center"
          src="https://github-readme-stats.vercel.app/api/top-langs?username=TulioBreyner&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact"
@@ -23,7 +8,7 @@ me = Person(
 </p>
 
 ### 🚀 Technologies
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![AWS Cloud](https://img.shields.io/badge/-AWS_Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![n8n](https://img.shields.io/badge/-n8n-FA4600?style=for-the-badge&logo=n8n&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![AWS Cloud](https://img.shields.io/badge/-AWS_Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
 ### 🌍 Find Me Here
